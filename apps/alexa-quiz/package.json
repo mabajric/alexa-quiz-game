@@ -1,0 +1,13 @@
+{
+  "name": "alexa-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Sulejman Delic & Maid Bajric",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}

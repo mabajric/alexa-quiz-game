@@ -1,0 +1,34 @@
+{
+  "name": "alexa-quiz-game",
+  "version": "1.0.0",
+  "description": "Amazon Alexa \"Quiz Game\" skill",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabajric/alexa-quiz-game.git"
+  },
+  "keywords": [
+    "amazon",
+    "alexa",
+    "echo",
+    "quiz",
+    "game",
+    "skill",
+    "skills"
+  ],
+  "author": "Sulejman Delic & Maid Bajric",
+  "license": "LICENSE.md",
+  "readme": "README.md",
+  "bugs": {
+    "url": "https://github.com/mabajric/alexa-quiz-game/issues"
+  },
+  "homepage": "https://github.com/mabajric/alexa-quiz-game#readme"
+}
